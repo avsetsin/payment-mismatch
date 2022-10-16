@@ -2,6 +2,7 @@ import { BigNumber } from "ethers";
 import { formatEther } from "ethers/lib/utils";
 import fetch from "node-fetch";
 import slots from "./slots.json";
+import * as fs from "fs";
 
 const possibleBidsAPI = [
   `https://boost-relay.flashbots.net/relay/v1/data/bidtraces/builder_blocks_received?slot=`,
@@ -85,4 +86,6 @@ const findMaxBidForSlot = async (slot: number) => {
 
   console.table(result);
   console.table([summary]);
+
+  fs.writeFileSync("./dump.json", JSON.stringify(result));
 })();
