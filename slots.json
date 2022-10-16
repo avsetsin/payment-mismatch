@@ -1,0 +1,1658 @@
+﻿[
+  {
+    "slot": 4920605,
+    "block": 15756366,
+    "operator": null,
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "24096319962853850",
+    "indirectPayment": null,
+    "bid": "7809656751130002000"
+  },
+  {
+    "slot": 4920604,
+    "block": 15756365,
+    "operator": "DSRV",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "41819653615322290",
+    "indirectPayment": null,
+    "bid": "9348122413173008000"
+  },
+  {
+    "slot": 4920600,
+    "block": 15756361,
+    "operator": "Stakin",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "32393908330354570",
+    "indirectPayment": null,
+    "bid": "5157186367062007000"
+  },
+  {
+    "slot": 4920596,
+    "block": 15756357,
+    "operator": "Everstake",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "7611508329000752",
+    "indirectPayment": null,
+    "bid": "6509726074237003000"
+  },
+  {
+    "slot": 4920587,
+    "block": 15756348,
+    "operator": null,
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "41829326011387530",
+    "indirectPayment": null,
+    "bid": "9430744278647003000"
+  },
+  {
+    "slot": 4920585,
+    "block": 15756346,
+    "operator": null,
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "9542967376530656",
+    "indirectPayment": null,
+    "bid": "4283794437416007700"
+  },
+  {
+    "slot": 4920584,
+    "block": 15756345,
+    "operator": null,
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "39321516097641450",
+    "indirectPayment": null,
+    "bid": "9490949456432005000"
+  },
+  {
+    "slot": 4920580,
+    "block": 15756341,
+    "operator": "stakefish",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "28193352471291990",
+    "indirectPayment": null,
+    "bid": "9860536825306001000"
+  },
+  {
+    "slot": 4920574,
+    "block": 15756335,
+    "operator": "Simply Staking",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "18775805862829260",
+    "indirectPayment": null,
+    "bid": "7653450665039005000"
+  },
+  {
+    "slot": 4920571,
+    "block": 15756332,
+    "operator": null,
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "26394432083562756",
+    "indirectPayment": null,
+    "bid": "8944510467414007000"
+  },
+  {
+    "slot": 4920569,
+    "block": 15756330,
+    "operator": "stakefish",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "8367721457635891",
+    "indirectPayment": null,
+    "bid": "8100640618686006000"
+  },
+  {
+    "slot": 4920567,
+    "block": 15756328,
+    "operator": "Stakely",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "24035121300666450",
+    "indirectPayment": null,
+    "bid": "8093865499987004000"
+  },
+  {
+    "slot": 4920563,
+    "block": 15756324,
+    "operator": "Blockscape",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "30810026375260704",
+    "indirectPayment": null,
+    "bid": "6060621594063003000"
+  },
+  {
+    "slot": 4920556,
+    "block": 15756317,
+    "operator": null,
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "45476536508578750",
+    "indirectPayment": null,
+    "bid": "7846554365255007000"
+  },
+  {
+    "slot": 4920551,
+    "block": 15756312,
+    "operator": "Staking Facilities",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "12554084095949566",
+    "indirectPayment": null,
+    "bid": "8936117143359001000"
+  },
+  {
+    "slot": 4920550,
+    "block": 15756311,
+    "operator": "Simply Staking",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "67412175685588456",
+    "indirectPayment": null,
+    "bid": "6752450346412002000"
+  },
+  {
+    "slot": 4920547,
+    "block": 15756308,
+    "operator": "stakefish",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "39135543048725800",
+    "indirectPayment": null,
+    "bid": "6664787743221002000"
+  },
+  {
+    "slot": 4920543,
+    "block": 15756304,
+    "operator": "Blockscape",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "15587346031509930",
+    "indirectPayment": null,
+    "bid": "9973069409775004000"
+  },
+  {
+    "slot": 4920538,
+    "block": 15756299,
+    "operator": null,
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "99553615077720530",
+    "indirectPayment": null,
+    "bid": "9831889479514006000"
+  },
+  {
+    "slot": 4920534,
+    "block": 15756295,
+    "operator": "CryptoManufaktur",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "55440946047016890",
+    "indirectPayment": null,
+    "bid": "7298402267762003000"
+  },
+  {
+    "slot": 4920533,
+    "block": 15756294,
+    "operator": "Stakely",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "45877984524384810",
+    "indirectPayment": null,
+    "bid": "8241639198491001000"
+  },
+  {
+    "slot": 4920515,
+    "block": 15756276,
+    "operator": "Everstake",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "58638728438275360",
+    "indirectPayment": null,
+    "bid": "8745681181781000000"
+  },
+  {
+    "slot": 4920513,
+    "block": 15756274,
+    "operator": "DSRV",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "16452121762254088",
+    "indirectPayment": null,
+    "bid": "8689583251364006000"
+  },
+  {
+    "slot": 4920508,
+    "block": 15756269,
+    "operator": null,
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "2238008498155360",
+    "indirectPayment": null,
+    "bid": "9834796015010010000"
+  },
+  {
+    "slot": 4920504,
+    "block": 15756265,
+    "operator": "Blockscape",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "567109234368256960",
+    "indirectPayment": null,
+    "bid": "7434431593875005000"
+  },
+  {
+    "slot": 4920499,
+    "block": 15756260,
+    "operator": "Chorus One",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "28802276353363260",
+    "indirectPayment": null,
+    "bid": "9169469778878005000"
+  },
+  {
+    "slot": 4920486,
+    "block": 15756248,
+    "operator": "Allnodes",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "81793167257800160",
+    "indirectPayment": null,
+    "bid": "9173761194772004000"
+  },
+  {
+    "slot": 4920481,
+    "block": 15756243,
+    "operator": "Stakin",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "42250859689086810",
+    "indirectPayment": null,
+    "bid": "8767119419602008000"
+  },
+  {
+    "slot": 4920476,
+    "block": 15756238,
+    "operator": null,
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "23006513091374640",
+    "indirectPayment": null,
+    "bid": "7921324395322004000"
+  },
+  {
+    "slot": 4920475,
+    "block": 15756237,
+    "operator": "Chorus One",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "63298463647854456",
+    "indirectPayment": null,
+    "bid": "8298539413907006000"
+  },
+  {
+    "slot": 4920472,
+    "block": 15756234,
+    "operator": "Chorus One",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "36869734005471750",
+    "indirectPayment": null,
+    "bid": "8250576791489007000"
+  },
+  {
+    "slot": 4920471,
+    "block": 15756233,
+    "operator": null,
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "26674994218837510",
+    "indirectPayment": null,
+    "bid": "6053890039649002000"
+  },
+  {
+    "slot": 4920464,
+    "block": 15756226,
+    "operator": "CryptoManufaktur",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "60992450454838720",
+    "indirectPayment": null,
+    "bid": "9910472968984003000"
+  },
+  {
+    "slot": 4920462,
+    "block": 15756224,
+    "operator": "DSRV",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "22217585133990530",
+    "indirectPayment": null,
+    "bid": "7804840595955001000"
+  },
+  {
+    "slot": 4920457,
+    "block": 15756219,
+    "operator": "Stakin",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "167832303071825150",
+    "indirectPayment": null,
+    "bid": "9915914451917000000"
+  },
+  {
+    "slot": 4920453,
+    "block": 15756215,
+    "operator": "stakefish",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "17015513602034984",
+    "indirectPayment": null,
+    "bid": "8890848903906003000"
+  },
+  {
+    "slot": 4920448,
+    "block": 15756210,
+    "operator": "stakefish",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "28041099369534456",
+    "indirectPayment": null,
+    "bid": "9408481913473008000"
+  },
+  {
+    "slot": 4920447,
+    "block": 15756209,
+    "operator": null,
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "42747719462246270",
+    "indirectPayment": null,
+    "bid": "8339026655216007000"
+  },
+  {
+    "slot": 4920445,
+    "block": 15756207,
+    "operator": null,
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "45733987982551656",
+    "indirectPayment": null,
+    "bid": "9210312184965007000"
+  },
+  {
+    "slot": 4920444,
+    "block": 15756206,
+    "operator": "Stakely",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "68088050022491920",
+    "indirectPayment": null,
+    "bid": "8858528422596007000"
+  },
+  {
+    "slot": 4920440,
+    "block": 15756202,
+    "operator": "Everstake",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "57532007885394930",
+    "indirectPayment": null,
+    "bid": "8869888434543004000"
+  },
+  {
+    "slot": 4920436,
+    "block": 15756198,
+    "operator": "Blockscape",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "50554474299681150",
+    "indirectPayment": null,
+    "bid": "9206086988501005000"
+  },
+  {
+    "slot": 4920431,
+    "block": 15756193,
+    "operator": "DSRV",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "4131513219375850",
+    "indirectPayment": null,
+    "bid": "6977372773410006000"
+  },
+  {
+    "slot": 4920414,
+    "block": 15756176,
+    "operator": null,
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "73873980635039120",
+    "indirectPayment": null,
+    "bid": "8022672695552000000"
+  },
+  {
+    "slot": 4920403,
+    "block": 15756165,
+    "operator": null,
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "14104978131325368",
+    "indirectPayment": null,
+    "bid": "9817164601247005000"
+  },
+  {
+    "slot": 4920400,
+    "block": 15756162,
+    "operator": null,
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "8769412497651894",
+    "indirectPayment": null,
+    "bid": "8707198534323002000"
+  },
+  {
+    "slot": 4920397,
+    "block": 15756159,
+    "operator": "DSRV",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "22527352009396976",
+    "indirectPayment": null,
+    "bid": "9534969572319000000"
+  },
+  {
+    "slot": 4920383,
+    "block": 15756145,
+    "operator": "DSRV",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "70380555150373304",
+    "indirectPayment": null,
+    "bid": "8319249513704002000"
+  },
+  {
+    "slot": 4920379,
+    "block": 15756141,
+    "operator": null,
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "28791849426175652",
+    "indirectPayment": null,
+    "bid": "7515622420229008000"
+  },
+  {
+    "slot": 4920377,
+    "block": 15756139,
+    "operator": null,
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "77623232098856420",
+    "indirectPayment": null,
+    "bid": "9382342131132008000"
+  },
+  {
+    "slot": 4920375,
+    "block": 15756137,
+    "operator": "DSRV",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "22999132529862184",
+    "indirectPayment": null,
+    "bid": "6595240553044009000"
+  },
+  {
+    "slot": 4920374,
+    "block": 15756136,
+    "operator": "Allnodes",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "68295374125282180",
+    "indirectPayment": null,
+    "bid": "9362169758105002000"
+  },
+  {
+    "slot": 4920370,
+    "block": 15756132,
+    "operator": "Chorus One",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "23437606234294180",
+    "indirectPayment": null,
+    "bid": "7828825727219007000"
+  },
+  {
+    "slot": 4920368,
+    "block": 15756130,
+    "operator": "Stakin",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "36285738743272610",
+    "indirectPayment": null,
+    "bid": "7691377282145009000"
+  },
+  {
+    "slot": 4920367,
+    "block": 15756129,
+    "operator": "Everstake",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "8991154378785327",
+    "indirectPayment": null,
+    "bid": "6331662076679001000"
+  },
+  {
+    "slot": 4920365,
+    "block": 15756127,
+    "operator": "Everstake",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "28813967894567760",
+    "indirectPayment": null,
+    "bid": "8245328434545006000"
+  },
+  {
+    "slot": 4920360,
+    "block": 15756122,
+    "operator": "Staking Facilities",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "51514753372822930",
+    "indirectPayment": null,
+    "bid": "9539546101538007000"
+  },
+  {
+    "slot": 4920354,
+    "block": 15756116,
+    "operator": "Everstake",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "981497740718550",
+    "indirectPayment": null,
+    "bid": "2060165260488004000"
+  },
+  {
+    "slot": 4920336,
+    "block": 15756098,
+    "operator": "Staking Facilities",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "11932578823943296",
+    "indirectPayment": null,
+    "bid": "7996027036874006000"
+  },
+  {
+    "slot": 4920334,
+    "block": 15756096,
+    "operator": null,
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "40490559238535520",
+    "indirectPayment": null,
+    "bid": "8400027137505006000"
+  },
+  {
+    "slot": 4920323,
+    "block": 15756085,
+    "operator": null,
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "74909238621625100",
+    "indirectPayment": null,
+    "bid": "8871440365757007000"
+  },
+  {
+    "slot": 4920320,
+    "block": 15756082,
+    "operator": null,
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "6178402741683019",
+    "indirectPayment": null,
+    "bid": "8245870085936002000"
+  },
+  {
+    "slot": 4920318,
+    "block": 15756080,
+    "operator": "Chorus One",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "51356889464564960",
+    "indirectPayment": null,
+    "bid": "7307359448719005000"
+  },
+  {
+    "slot": 4920316,
+    "block": 15756078,
+    "operator": "DSRV",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "32446646946103430",
+    "indirectPayment": null,
+    "bid": "8131942139960002000"
+  },
+  {
+    "slot": 4920300,
+    "block": 15756062,
+    "operator": "Stakely",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "63843677760075256",
+    "indirectPayment": null,
+    "bid": "9946609253609005000"
+  },
+  {
+    "slot": 4920295,
+    "block": 15756057,
+    "operator": "Chorus One",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "21234823319586428",
+    "indirectPayment": null,
+    "bid": "7595190867957003000"
+  },
+  {
+    "slot": 4920293,
+    "block": 15756055,
+    "operator": null,
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "6627153885700002",
+    "indirectPayment": null,
+    "bid": "9279754412519008000"
+  },
+  {
+    "slot": 4920289,
+    "block": 15756051,
+    "operator": null,
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "16207956061821268",
+    "indirectPayment": null,
+    "bid": "8856332072997008000"
+  },
+  {
+    "slot": 4920279,
+    "block": 15756041,
+    "operator": "Stakely",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "13847484128684292",
+    "indirectPayment": null,
+    "bid": "8556731434311007000"
+  },
+  {
+    "slot": 4920273,
+    "block": 15756035,
+    "operator": "Everstake",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "20705105096094704",
+    "indirectPayment": null,
+    "bid": "7384047099502001000"
+  },
+  {
+    "slot": 4920272,
+    "block": 15756034,
+    "operator": null,
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "37544413396246344",
+    "indirectPayment": null,
+    "bid": "7521162107940005000"
+  },
+  {
+    "slot": 4920271,
+    "block": 15756033,
+    "operator": "Stakely",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "12158523698586228",
+    "indirectPayment": null,
+    "bid": "9248862301857001000"
+  },
+  {
+    "slot": 4920269,
+    "block": 15756031,
+    "operator": null,
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "34730553629320052",
+    "indirectPayment": null,
+    "bid": "7598029271382006000"
+  },
+  {
+    "slot": 4920267,
+    "block": 15756029,
+    "operator": null,
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "29218824741690824",
+    "indirectPayment": null,
+    "bid": "8652220394802005000"
+  },
+  {
+    "slot": 4920253,
+    "block": 15756015,
+    "operator": "Stakely",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "83585796598096590",
+    "indirectPayment": null,
+    "bid": "6493564752296002000"
+  },
+  {
+    "slot": 4920242,
+    "block": 15756004,
+    "operator": "Stakely",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "13704520493369964",
+    "indirectPayment": null,
+    "bid": "5694874628647003000"
+  },
+  {
+    "slot": 4920231,
+    "block": 15755994,
+    "operator": "Allnodes",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "55040662951950310",
+    "indirectPayment": null,
+    "bid": "8661220713131001000"
+  },
+  {
+    "slot": 4920230,
+    "block": 15755993,
+    "operator": "Stakin",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "1112799873653096",
+    "indirectPayment": null,
+    "bid": "9178168239143008000"
+  },
+  {
+    "slot": 4920219,
+    "block": 15755982,
+    "operator": null,
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "93327236019533090",
+    "indirectPayment": null,
+    "bid": "9431804048221004000"
+  },
+  {
+    "slot": 4920218,
+    "block": 15755981,
+    "operator": null,
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "172716112938991650",
+    "indirectPayment": null,
+    "bid": "8535112089412001000"
+  },
+  {
+    "slot": 4920217,
+    "block": 15755980,
+    "operator": null,
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "58300405179309464",
+    "indirectPayment": null,
+    "bid": "8504746002540000000"
+  },
+  {
+    "slot": 4920208,
+    "block": 15755971,
+    "operator": null,
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "112518486320404290",
+    "indirectPayment": null,
+    "bid": "7923931293513000000"
+  },
+  {
+    "slot": 4920206,
+    "block": 15755969,
+    "operator": "Chorus One",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "67521264494719620",
+    "indirectPayment": null,
+    "bid": "9844424275942003000"
+  },
+  {
+    "slot": 4920205,
+    "block": 15755968,
+    "operator": "Simply Staking",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "149381124251080130",
+    "indirectPayment": null,
+    "bid": "9090431679329002000"
+  },
+  {
+    "slot": 4920204,
+    "block": 15755967,
+    "operator": "Allnodes",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "41670638358883650",
+    "indirectPayment": null,
+    "bid": "7417051677041001000"
+  },
+  {
+    "slot": 4920199,
+    "block": 15755962,
+    "operator": "Blockscape",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "82156516955200930",
+    "indirectPayment": null,
+    "bid": "7609276561863001000"
+  },
+  {
+    "slot": 4920195,
+    "block": 15755958,
+    "operator": "DSRV",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "20682968912998836",
+    "indirectPayment": null,
+    "bid": "7460681360460003000"
+  },
+  {
+    "slot": 4920185,
+    "block": 15755948,
+    "operator": "Chorus One",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "3224009006138530",
+    "indirectPayment": null,
+    "bid": "9641405857097005000"
+  },
+  {
+    "slot": 4920182,
+    "block": 15755945,
+    "operator": "Everstake",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "39667226067657780",
+    "indirectPayment": null,
+    "bid": "9008612781975007000"
+  },
+  {
+    "slot": 4920169,
+    "block": 15755932,
+    "operator": "Chorus One",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "47838957777279840",
+    "indirectPayment": null,
+    "bid": "6144253037103002000"
+  },
+  {
+    "slot": 4920168,
+    "block": 15755931,
+    "operator": "Allnodes",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "4225986889805452",
+    "indirectPayment": null,
+    "bid": "9063278308092006000"
+  },
+  {
+    "slot": 4920166,
+    "block": 15755929,
+    "operator": "Everstake",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "51822612201511256",
+    "indirectPayment": null,
+    "bid": "7674649044123006000"
+  },
+  {
+    "slot": 4920165,
+    "block": 15755928,
+    "operator": "Allnodes",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "4138206435982320",
+    "indirectPayment": null,
+    "bid": "6966551521992004000"
+  },
+  {
+    "slot": 4920163,
+    "block": 15755926,
+    "operator": "Everstake",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "28662954324152570",
+    "indirectPayment": null,
+    "bid": "6727441030790003000"
+  },
+  {
+    "slot": 4920161,
+    "block": 15755924,
+    "operator": null,
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "89020754809767340",
+    "indirectPayment": null,
+    "bid": "7320972215273008000"
+  },
+  {
+    "slot": 4920160,
+    "block": 15755923,
+    "operator": "Chorus One",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "7243976233742853",
+    "indirectPayment": null,
+    "bid": "9373886295468005000"
+  },
+  {
+    "slot": 4920144,
+    "block": 15755907,
+    "operator": "stakefish",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "35061027700883450",
+    "indirectPayment": null,
+    "bid": "6698897266221003000"
+  },
+  {
+    "slot": 4920143,
+    "block": 15755906,
+    "operator": "Everstake",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "47396888125152424",
+    "indirectPayment": null,
+    "bid": "8230155274801007000"
+  },
+  {
+    "slot": 4920135,
+    "block": 15755898,
+    "operator": null,
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "11369392646380284",
+    "indirectPayment": null,
+    "bid": "9477325508663007000"
+  },
+  {
+    "slot": 4920129,
+    "block": 15755892,
+    "operator": null,
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "4218650618493802",
+    "indirectPayment": null,
+    "bid": "7245721002147004000"
+  },
+  {
+    "slot": 4920127,
+    "block": 15755890,
+    "operator": "Everstake",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "24967763087091096",
+    "indirectPayment": null,
+    "bid": "9244476403523004000"
+  },
+  {
+    "slot": 4920117,
+    "block": 15755880,
+    "operator": "stakefish",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "26926477634220536",
+    "indirectPayment": null,
+    "bid": "7369410612109008000"
+  },
+  {
+    "slot": 4920112,
+    "block": 15755875,
+    "operator": "Blockscape",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "20379049239815140",
+    "indirectPayment": null,
+    "bid": "4821354384398001000"
+  },
+  {
+    "slot": 4920105,
+    "block": 15755868,
+    "operator": "Staking Facilities",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "89889415361128450",
+    "indirectPayment": null,
+    "bid": "8501418083803005000"
+  },
+  {
+    "slot": 4920104,
+    "block": 15755867,
+    "operator": "Chorus One",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "25285272969083150",
+    "indirectPayment": null,
+    "bid": "7340816808117007000"
+  },
+  {
+    "slot": 4920097,
+    "block": 15755860,
+    "operator": "Simply Staking",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "25215992917403696",
+    "indirectPayment": null,
+    "bid": "7362871083858004000"
+  },
+  {
+    "slot": 4920096,
+    "block": 15755859,
+    "operator": "Blockscape",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "23056361950379930",
+    "indirectPayment": null,
+    "bid": "6841328507682003000"
+  },
+  {
+    "slot": 4920094,
+    "block": 15755857,
+    "operator": "Blockscape",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "34561151785484770",
+    "indirectPayment": null,
+    "bid": "8526164860953002000"
+  },
+  {
+    "slot": 4920091,
+    "block": 15755854,
+    "operator": "Blockscape",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "200677957169830700",
+    "indirectPayment": null,
+    "bid": "8817277977677002000"
+  },
+  {
+    "slot": 4920080,
+    "block": 15755844,
+    "operator": "Blockscape",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "27964149715328544",
+    "indirectPayment": null,
+    "bid": "4549136115485000700"
+  },
+  {
+    "slot": 4920078,
+    "block": 15755842,
+    "operator": "Blockscape",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "23906317418127784",
+    "indirectPayment": null,
+    "bid": "8656647233554002000"
+  },
+  {
+    "slot": 4920064,
+    "block": 15755829,
+    "operator": "Allnodes",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "110217103762878620",
+    "indirectPayment": null,
+    "bid": "9748782202006002000"
+  },
+  {
+    "slot": 4920060,
+    "block": 15755825,
+    "operator": null,
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "2502871359381213",
+    "indirectPayment": null,
+    "bid": "8920288864529008000"
+  },
+  {
+    "slot": 4920057,
+    "block": 15755822,
+    "operator": "Stakin",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "42097549569126640",
+    "indirectPayment": null,
+    "bid": "7248192038583006000"
+  },
+  {
+    "slot": 4920055,
+    "block": 15755820,
+    "operator": null,
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "45013001943499470",
+    "indirectPayment": null,
+    "bid": "7891666506129000000"
+  },
+  {
+    "slot": 4920049,
+    "block": 15755815,
+    "operator": "Stakin",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "3653383320430150",
+    "indirectPayment": null,
+    "bid": "8819405847170005000"
+  },
+  {
+    "slot": 4920047,
+    "block": 15755813,
+    "operator": "Stakin",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "21054269866002730",
+    "indirectPayment": null,
+    "bid": "7625249324105005000"
+  },
+  {
+    "slot": 4920045,
+    "block": 15755811,
+    "operator": "Stakely",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "20160248331579870",
+    "indirectPayment": null,
+    "bid": "9728447164998007000"
+  },
+  {
+    "slot": 4920043,
+    "block": 15755809,
+    "operator": "stakefish",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "29356318854855176",
+    "indirectPayment": null,
+    "bid": "6792922409590006000"
+  },
+  {
+    "slot": 4920037,
+    "block": 15755804,
+    "operator": "Stakin",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "26598618570587896",
+    "indirectPayment": null,
+    "bid": "8316057096076001000"
+  },
+  {
+    "slot": 4920032,
+    "block": 15755799,
+    "operator": "stakefish",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "29497318402883016",
+    "indirectPayment": null,
+    "bid": "5971100825093001000"
+  },
+  {
+    "slot": 4920027,
+    "block": 15755794,
+    "operator": null,
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "27089534216395584",
+    "indirectPayment": null,
+    "bid": "8656658593709004000"
+  },
+  {
+    "slot": 4920026,
+    "block": 15755793,
+    "operator": "Allnodes",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "35166049720099224",
+    "indirectPayment": null,
+    "bid": "7377864076039001000"
+  },
+  {
+    "slot": 4920025,
+    "block": 15755792,
+    "operator": "Allnodes",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "24689605066260330",
+    "indirectPayment": null,
+    "bid": "9448348248253006000"
+  },
+  {
+    "slot": 4920021,
+    "block": 15755788,
+    "operator": "DSRV",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "35640316684776016",
+    "indirectPayment": null,
+    "bid": "9307228523763003000"
+  },
+  {
+    "slot": 4920017,
+    "block": 15755784,
+    "operator": null,
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "46704348148986264",
+    "indirectPayment": null,
+    "bid": "8166934995755001000"
+  },
+  {
+    "slot": 4920012,
+    "block": 15755779,
+    "operator": null,
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "7046838094538796",
+    "indirectPayment": null,
+    "bid": "5920324826749001000"
+  },
+  {
+    "slot": 4920005,
+    "block": 15755772,
+    "operator": "DSRV",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "39338876212679080",
+    "indirectPayment": null,
+    "bid": "8412555166967006000"
+  },
+  {
+    "slot": 4920000,
+    "block": 15755767,
+    "operator": null,
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "26869719325238520",
+    "indirectPayment": null,
+    "bid": "7416208475483005000"
+  },
+  {
+    "slot": 4919997,
+    "block": 15755764,
+    "operator": "Stakin",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "32129374143765050",
+    "indirectPayment": null,
+    "bid": "6250437451781007000"
+  },
+  {
+    "slot": 4919991,
+    "block": 15755758,
+    "operator": "Allnodes",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "30817082314859364",
+    "indirectPayment": null,
+    "bid": "4610763491412008400"
+  },
+  {
+    "slot": 4919988,
+    "block": 15755755,
+    "operator": "Chorus One",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "6883120635354708",
+    "indirectPayment": null,
+    "bid": "9801443065298008000"
+  },
+  {
+    "slot": 4919983,
+    "block": 15755751,
+    "operator": "Simply Staking",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "46146534857778540",
+    "indirectPayment": null,
+    "bid": "9863477952330000000"
+  },
+  {
+    "slot": 4919978,
+    "block": 15755746,
+    "operator": "Staking Facilities",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "15394885861958614",
+    "indirectPayment": null,
+    "bid": "4200769685052008000"
+  },
+  {
+    "slot": 4919977,
+    "block": 15755745,
+    "operator": "Chorus One",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "13878263255503268",
+    "indirectPayment": null,
+    "bid": "9965857582317009000"
+  },
+  {
+    "slot": 4919976,
+    "block": 15755744,
+    "operator": "Chorus One",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "12037406455116492",
+    "indirectPayment": null,
+    "bid": "9387131466466003000"
+  },
+  {
+    "slot": 4919974,
+    "block": 15755742,
+    "operator": "Allnodes",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "25480548946005456",
+    "indirectPayment": null,
+    "bid": "5842050864352008000"
+  },
+  {
+    "slot": 4919973,
+    "block": 15755741,
+    "operator": null,
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "17087499816339876",
+    "indirectPayment": null,
+    "bid": "7373743291330003000"
+  },
+  {
+    "slot": 4919971,
+    "block": 15755739,
+    "operator": "Blockscape",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "8670463836671827",
+    "indirectPayment": null,
+    "bid": "8994615692762004000"
+  },
+  {
+    "slot": 4919967,
+    "block": 15755735,
+    "operator": "Chorus One",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "33123616271803276",
+    "indirectPayment": null,
+    "bid": "9200005225835004000"
+  },
+  {
+    "slot": 4919966,
+    "block": 15755734,
+    "operator": null,
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "17629104370119596",
+    "indirectPayment": null,
+    "bid": "8536078843067004000"
+  },
+  {
+    "slot": 4919952,
+    "block": 15755720,
+    "operator": "Everstake",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "9759980383615560",
+    "indirectPayment": null,
+    "bid": "9097561944307000000"
+  },
+  {
+    "slot": 4919946,
+    "block": 15755714,
+    "operator": "Blockscape",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "24457274962108356",
+    "indirectPayment": null,
+    "bid": "5824647515363009000"
+  },
+  {
+    "slot": 4919935,
+    "block": 15755703,
+    "operator": "DSRV",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "67461353754060750",
+    "indirectPayment": null,
+    "bid": "9899442941823003000"
+  },
+  {
+    "slot": 4919920,
+    "block": 15755688,
+    "operator": "Everstake",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "12846883107133964",
+    "indirectPayment": null,
+    "bid": "8229854035634002000"
+  },
+  {
+    "slot": 4919918,
+    "block": 15755686,
+    "operator": null,
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "22460617099528864",
+    "indirectPayment": null,
+    "bid": "6508592360749002000"
+  },
+  {
+    "slot": 4919915,
+    "block": 15755683,
+    "operator": "stakefish",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "114335467576305870",
+    "indirectPayment": null,
+    "bid": "8790491027608005000"
+  },
+  {
+    "slot": 4919913,
+    "block": 15755681,
+    "operator": null,
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "61765050080488240",
+    "indirectPayment": null,
+    "bid": "6016619868927004000"
+  },
+  {
+    "slot": 4919907,
+    "block": 15755675,
+    "operator": null,
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "13489428074007894",
+    "indirectPayment": null,
+    "bid": "8133701613563000000"
+  },
+  {
+    "slot": 4919906,
+    "block": 15755674,
+    "operator": "Stakin",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "18173489860379560",
+    "indirectPayment": null,
+    "bid": "7217769697041006000"
+  },
+  {
+    "slot": 4919900,
+    "block": 15755668,
+    "operator": "Staking Facilities",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "26097861255858200",
+    "indirectPayment": null,
+    "bid": "8952819954703007000"
+  },
+  {
+    "slot": 4919898,
+    "block": 15755666,
+    "operator": "Chorus One",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "12203619690768700",
+    "indirectPayment": null,
+    "bid": "6270234024558006000"
+  },
+  {
+    "slot": 4919890,
+    "block": 15755659,
+    "operator": null,
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "4314201269098814",
+    "indirectPayment": null,
+    "bid": "9824873506639008000"
+  },
+  {
+    "slot": 4919889,
+    "block": 15755658,
+    "operator": "stakefish",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "26311311960177124",
+    "indirectPayment": null,
+    "bid": "5514781557364008000"
+  },
+  {
+    "slot": 4919887,
+    "block": 15755656,
+    "operator": null,
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "6619099170395230",
+    "indirectPayment": null,
+    "bid": "8546960616399008000"
+  },
+  {
+    "slot": 4919884,
+    "block": 15755653,
+    "operator": null,
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "13808728417556794",
+    "indirectPayment": null,
+    "bid": "9082964192429002000"
+  },
+  {
+    "slot": 4919877,
+    "block": 15755646,
+    "operator": "Simply Staking",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "34850475166061736",
+    "indirectPayment": null,
+    "bid": "9617145722243002000"
+  },
+  {
+    "slot": 4919873,
+    "block": 15755642,
+    "operator": "Staking Facilities",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "7915289191938467",
+    "indirectPayment": null,
+    "bid": "5638111022160004000"
+  },
+  {
+    "slot": 4919864,
+    "block": 15755633,
+    "operator": "Simply Staking",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "27342764061180410",
+    "indirectPayment": null,
+    "bid": "9831190126022000000"
+  },
+  {
+    "slot": 4919861,
+    "block": 15755630,
+    "operator": "Simply Staking",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "23560972140931880",
+    "indirectPayment": null,
+    "bid": "9079309088422002000"
+  },
+  {
+    "slot": 4919854,
+    "block": 15755623,
+    "operator": "DSRV",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "40947226983329600",
+    "indirectPayment": null,
+    "bid": "9632628193113006000"
+  },
+  {
+    "slot": 4919851,
+    "block": 15755620,
+    "operator": "Everstake",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "45192070922645304",
+    "indirectPayment": null,
+    "bid": "7048320475653005000"
+  },
+  {
+    "slot": 4919840,
+    "block": 15755609,
+    "operator": "Staking Facilities",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "37306757363275570",
+    "indirectPayment": null,
+    "bid": "8535656770607005000"
+  },
+  {
+    "slot": 4919836,
+    "block": 15755605,
+    "operator": "DSRV",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "16698617939419652",
+    "indirectPayment": null,
+    "bid": "9741493964589007000"
+  },
+  {
+    "slot": 4919830,
+    "block": 15755599,
+    "operator": null,
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "9740373304120508",
+    "indirectPayment": null,
+    "bid": "8771888855073007000"
+  },
+  {
+    "slot": 4919829,
+    "block": 15755598,
+    "operator": "Staking Facilities",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "48522988501628130",
+    "indirectPayment": null,
+    "bid": "9535271934690007000"
+  },
+  {
+    "slot": 4919823,
+    "block": 15755592,
+    "operator": "DSRV",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "3139579353384349",
+    "indirectPayment": null,
+    "bid": "3097198507269001700"
+  },
+  {
+    "slot": 4919820,
+    "block": 15755589,
+    "operator": "stakefish",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "9464021195951424",
+    "indirectPayment": null,
+    "bid": "4710081088030000000"
+  },
+  {
+    "slot": 4919818,
+    "block": 15755587,
+    "operator": "Blockscape",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "158852846739732830",
+    "indirectPayment": null,
+    "bid": "8071608290712004000"
+  },
+  {
+    "slot": 4919809,
+    "block": 15755578,
+    "operator": "CryptoManufaktur",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "4462652461731082",
+    "indirectPayment": null,
+    "bid": "7499112296796004000"
+  },
+  {
+    "slot": 4919795,
+    "block": 15755564,
+    "operator": "Chorus One",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "8328706487229389",
+    "indirectPayment": null,
+    "bid": "5603788466697005000"
+  },
+  {
+    "slot": 4919791,
+    "block": 15755560,
+    "operator": "Staking Facilities",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "31729324673356224",
+    "indirectPayment": null,
+    "bid": "8891185510143003000"
+  },
+  {
+    "slot": 4919786,
+    "block": 15755555,
+    "operator": "Allnodes",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "46168917313873496",
+    "indirectPayment": null,
+    "bid": "6938963975850004000"
+  },
+  {
+    "slot": 4919783,
+    "block": 15755552,
+    "operator": "Everstake",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "15482104472384532",
+    "indirectPayment": null,
+    "bid": "9092469029485003000"
+  },
+  {
+    "slot": 4919763,
+    "block": 15755533,
+    "operator": "DSRV",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "21811093340657804",
+    "indirectPayment": null,
+    "bid": "8553515430976009000"
+  },
+  {
+    "slot": 4919760,
+    "block": 15755530,
+    "operator": "Simply Staking",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "10096146716215032",
+    "indirectPayment": null,
+    "bid": "6414391791529006000"
+  },
+  {
+    "slot": 4919757,
+    "block": 15755527,
+    "operator": null,
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "29307054059716420",
+    "indirectPayment": null,
+    "bid": "9091002545738003000"
+  },
+  {
+    "slot": 4919744,
+    "block": 15755514,
+    "operator": "Everstake",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "33534012731211500",
+    "indirectPayment": null,
+    "bid": "8984607810294006000"
+  },
+  {
+    "slot": 4919736,
+    "block": 15755506,
+    "operator": "Allnodes",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "46165446020164060",
+    "indirectPayment": null,
+    "bid": "9875969993021008000"
+  },
+  {
+    "slot": 4919723,
+    "block": 15755493,
+    "operator": null,
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "220945831196529440",
+    "indirectPayment": null,
+    "bid": "9809815116721002000"
+  },
+  {
+    "slot": 4919716,
+    "block": 15755486,
+    "operator": null,
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "67988771897025630",
+    "indirectPayment": null,
+    "bid": "9717663640639005000"
+  },
+  {
+    "slot": 4919708,
+    "block": 15755478,
+    "operator": null,
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "87024816034205280",
+    "indirectPayment": null,
+    "bid": "9517272035383001000"
+  },
+  {
+    "slot": 4919707,
+    "block": 15755477,
+    "operator": null,
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "34321963202847188",
+    "indirectPayment": null,
+    "bid": "6798546436053004000"
+  },
+  {
+    "slot": 4917736,
+    "block": 15753511,
+    "operator": "Blockscape",
+    "relay": "https://mainnet-relay.securerpc.com",
+    "deltaBalance": "-170230760178008500000",
+    "indirectPayment": null,
+    "bid": "170230760178008500000"
+  }
+]
